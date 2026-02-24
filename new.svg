@@ -1,25 +1,25 @@
 <!-- ai-robo-single-path.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
   <path d="
-    M50,20 
-    h100 
-    v60 
-    h-100 
-    z
-    M70,40 
-    h10 
-    v10 
-    h-10 
-    z
-    M120,40 
-    h10 
-    v10 
-    h-10 
-    z
-    M80,70 
-    h40 
-    v5 
-    h-40 
-    z
+    M50 60 
+    C50 40, 150 40, 150 60 
+    L150 140 
+    C150 160, 50 160, 50 140 
+    Z
+    M70 80 
+    L90 80 
+    L90 100 
+    L70 100 
+    Z
+    M110 80 
+    L130 80 
+    L130 100 
+    L110 100 
+    Z
+    M80 120 
+    L120 120 
+    L120 130 
+    L80 130 
+    Z
   " fill="#000"/>
 </svg>
